@@ -160,6 +160,7 @@
 		top: 0;
 		width: 100%;
 		z-index: 1;
+		background-image: url("../images/bg01.jpg");
 	}
 
 		#bg div {
